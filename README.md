@@ -1,4 +1,4 @@
-# RescueLink 🚨
+# RescueLink* (under development) 🚨
 
 RescueLink is a lightweight, community-driven emergency assistance application designed for areas where professional emergency services may not always arrive quickly[cite: 1]. 
 
